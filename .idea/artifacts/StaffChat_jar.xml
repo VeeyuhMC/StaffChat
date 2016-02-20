@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StaffChat:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/StaffChat_jar</output-path>
+    <root id="archive" name="StaffChat.jar">
+      <element id="module-output" name="StaffChat" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Plugin Testing Server/Spigot.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Plugin Testing Server/plugins/Vault.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

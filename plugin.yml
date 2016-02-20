@@ -1,0 +1,4 @@
+name: StaffChat
+main: me.darkzek.staffchat.Main
+version: 1.0
+commands:
